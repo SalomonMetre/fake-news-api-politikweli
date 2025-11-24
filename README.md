@@ -1,9 +1,3 @@
-Here is a professional, production-ready `README.md` for your project. It highlights the architecture, the `uv` workflow, and the specific model/dataset attributions you requested.
-
-You can save this as `README.md` in your project root.
-
------
-
 # Fake News Detection API
 
 A high-performance, asynchronous REST API for detecting misinformation in news text. This service uses **FastAPI** to serve a **DistilBERT** model fine-tuned on the **PolitiKweli** dataset.
