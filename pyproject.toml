@@ -1,0 +1,13 @@
+[project]
+name = "fake-news-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "async-lru>=2.0.5",
+    "fastapi>=0.121.3",
+    "torch>=2.9.1",
+    "transformers>=4.57.1",
+    "uvicorn>=0.38.0",
+]
